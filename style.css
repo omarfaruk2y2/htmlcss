@@ -1,3 +1,14 @@
 body{
     background-color: darkgray;
 }
+img{
+    width: 40%;
+    position: relative;
+    left: 30%;
+}
+h2{
+    font-size: 45px;
+    color: whitesmoke;
+    text-align: center;
+    
+}
